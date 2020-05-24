@@ -1,0 +1,32 @@
+data = '{
+    "1_1": [{
+        "name": "Insurance 1",
+        "price": 100
+    },{
+        "name": "Insurance 2",
+        "price": 200
+    },{
+        "name": "Insurance 3",
+        "price": 300
+    }],
+    "1_2": [{
+        "name": "Insurance 1",
+        "price": 100
+    },{
+        "name": "Insurance 3",
+        "price": 300
+    },{
+        "name": "Insurance 2",
+        "price": 200
+    }],
+    "2_1": [{
+        "name": "Insurance 3",
+        "price": 300
+    },{
+        "name": "Insurance 2",
+        "price": 200
+    },{
+        "name": "Insurance 1",
+        "price": 100
+    }],
+}';
